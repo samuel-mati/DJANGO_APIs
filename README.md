@@ -1,1 +1,1 @@
-# DJANGO_APIs
+# Django REST API
